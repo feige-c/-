@@ -1,1 +1,11 @@
+使用方法
+
+```shell
+# 下载DocIsfy工具
+npm i docsify-cli -g
+# 初始化目录
+docsify init ./docs
+# 本地运行
+docsify serve docs
+```
 
